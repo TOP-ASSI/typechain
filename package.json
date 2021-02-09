@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Learning Typescript by making a Blockchain with it",
   "main": "index.js",
-  "repository": "https://github.com/TOP-ASSI/typechain/projects",
+  "repository": "https://github.com/TOP-ASSI/typechain",
   "author": "topassi",
   "license": "MIT",
   "scripts": {
